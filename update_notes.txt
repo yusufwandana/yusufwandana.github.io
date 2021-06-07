@@ -1,2 +1,7 @@
-Update v.1.0.0
+Update versi 1.0.0
+- Mengubah jabatan saat magang di PT Madani Intelsysdata (2019)
+
+Update versi 1.0.1
+- Mengubah deskripsi diri
+- Menghapus komentar di dalam code
 - Mengubah jabatan saat magang di PT Madani Intelsysdata (2019)
